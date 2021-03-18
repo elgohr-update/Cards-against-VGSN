@@ -22,7 +22,7 @@ ENV GIT_BRANCH master
 
 RUN apk add dos2unix git --no-cache --repository http://dl-3.alpinelinux.org/alpine/edge/community/ --allow-untrusted \
   && dos2unix /default.sh /overrides.sh \
-  && git clone -b main https://github.com/JorianBorst/Cards-Against-VGSN-MAVEN.git /project \
+  && git clone -b "main" https://github.com/JorianBorst/Cards-Against-VGSN-MAVEN.git /project \
   && apk del dos2unix git \
   && chmod +x /default.sh /overrides.sh \
   && mkdir /overrides

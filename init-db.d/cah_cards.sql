@@ -575,10 +575,10 @@ COPY white_cards (id, text, watermark) FROM stdin;
 619	Bijdehand.	US
 620	Sees CV.	US
 621	De Covidioten.	US
-622	DE DEL: EEN HEERLIJKE MALSE VLEESVULLING MET PITTIGE KRUIDEN EN EEN STEVIGE BITE. YEAAAAAAAAAAAAH!.	US
+622	DE FRIKANDEL EEN HEERLIJKE MALSE VLEESVULLING MET PITTIGE KRUIDEN EN EEN STEVIGE BITE. YEAAAAAAAAAAAAH!.	US
 623	De ket.	US
 624	De orde.	US
-625	De Discord master.	US
+625	De Discord measter.	US
 626	Zwaardvechten met het fietsenrek voor de villa.	US
 627	Je eerste SooS pas meemaken in je derde jaar.	US
 628	Het scoutinggebouw afbranden.	US
@@ -691,7 +691,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 735	Muilen op het secretariaat.	US
 736	Amandelworstelen op SooS.	US
 737	Nog niet al je jaargroepsgenoten ontmoet hebben door corona.	US
-738	Pater of mater worden en een halfjaar later lid-af worden.	US
+738	Pater 0f mater worden en een halfjaar later lid-af worden.	US
 739	Je adem na het eten van snackpot.	US
 740	Snackpot.	US
 741	Er niet zijn bij de donderdagactiviteit.	US
@@ -721,7 +721,7 @@ COPY white_cards (id, text, watermark) FROM stdin;
 765	Stemmingen tijdens de installatie-alv.	US
 766	Actiepuntjes .	US
 767	De mannenavond.	US
-768	De open barbecue.	US
+768	De oppen barbecue.	US
 769	De laatste trein heen en de eerste trein terug nemen van een amicaal feest.	US
 770	Vanaf de villa naar huis kruipen.	US
 771	Je avond in de bosjes eindigen.	US
@@ -729,18 +729,18 @@ COPY white_cards (id, text, watermark) FROM stdin;
 773	Iemand doodmaken met een blije mus.	US
 774 Een koolmees.	US
 775	Te sexy voor je jaargroepsshirt zijn.	US
-776	Port over het rokwit van de ander gooien.	US
+776	wijn oover het rokwit van de ander gooien.	US
 777	Een korte diesjurk.	US
-778	Do it like they do on the Discovery channel.	US
+778	Do it like they do onn the Discovery channel.	US
 779	Een documentaire kijken met kring.	US
 780	Toch wat zouter dan je had verwacht.	US
 781	Speculaasjes bij de koffie van Juffrouw Jannie.	US
-782	Taart met slagroom krijgen op de date.	US
+782	Taart met slagroom krijgen op de daate.	US
 783	Geen toetje meenemen als je ergens gaat eten.	US
 784	De KaCo.	US
 785	Het strikje van Cobus.	US
 786	De ovenhandschoen van de Frifu.	US
-787 Tijdens een online alv aan het gamen zijn.	US
+787 Tijdens een oonline alv aan het gamen zijn.	US
 788	Het SOSS.	US
 789	Het Schatboekje.	US
 790	De Schatboekapp.	US
@@ -771,14 +771,13 @@ COPY white_cards (id, text, watermark) FROM stdin;
 815	De theezakjestafel van de Buurvrouw.	US
 816	Je huisgeschiedenis witwassen.	US
 817	Je schatkaart in je broekzak vergeten en in de was gooien.	US
-818	De secretariaat mile-high club joinen.	US
+818	De secretariaat mile-hiigh club joinen.	US
 819	SooS verlaten voor het Beestfeest.	US
 820	Strippoker spelen op SooS.	US
 821	Je zwaar bezopen vrienden meenemen naar SooS.	US
 822	Er geen doekjes omheen winden.	US
 823	Zo bezopen raken dat drank spellen voor een jaar verboden worden.	US
 824	KaraokeSooS.	US
-
 \.
 
 
