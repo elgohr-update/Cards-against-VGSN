@@ -18,15 +18,15 @@ RUN apk add --no-cache curl tar procps \
 
 # PYX
 ADD scripts/default.sh scripts/overrides.sh /
-ENV GIT_BRANCH master
+ENV GIT_BRANCH main
 
 RUN apk add dos2unix git --no-cache --repository http://dl-3.alpinelinux.org/alpine/edge/community/ --allow-untrusted \
   && dos2unix /default.sh /overrides.sh \
-  && git clone -b $GIT_BRANCH https://github.com/ajanata/PretendYoureXyzzy.git /project \
+  && git clone -b ${GIT_BRANCH} https://github.com/JorianBorst/Cards-Against-VGSN-MAVEN.git /project \
   && apk del dos2unix git \
   && chmod +x /default.sh /overrides.sh \
   && mkdir /overrides
-
+ADD ./overrides/pyx.sqlite /project
 ADD ./overrides/settings-docker.xml /usr/share/maven/ref/
 VOLUME [ "/overrides" ]
 
